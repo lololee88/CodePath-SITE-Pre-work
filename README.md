@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
+* [x] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
@@ -35,12 +35,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app!
-- Made clue hold time shorter
+- Made clue hold time shorter to make game go by faster
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/WBVL7sa.gif)
+![](https://i.imgur.com/g5MC4dC.gif)
+![](https://i.imgur.com/zF4QlN4.gif)
 
 
 
