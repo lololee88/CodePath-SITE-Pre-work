@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/g5MC4dC.gif)
 ![](https://i.imgur.com/zF4QlN4.gif)
-
+![](https://i.imgur.com/NixKD5t.gif)
 
 
 ## Reflection Questions
